@@ -131,6 +131,12 @@ table.clients
     td a JMS-like API for .Net
     td 1.0
   tr
+    td :markdown
+        [StompSharp](https://github.com/shanielh/StompSharp)
+    td C# and .net
+    td a lightweight STOMP client for C#
+    td 0.1
+  tr
     td
       :markdown
         [as3-stomp](http://code.google.com/p/as3-stomp/)
